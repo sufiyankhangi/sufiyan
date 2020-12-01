@@ -4,7 +4,7 @@ body{
 hr{
   border-style: none;
   border-top-style: dotted;
-  width: 8%;
+  width: 12%;
   border-color:#dbf6e9;
   border-width: 10px;
 }
@@ -25,4 +25,9 @@ td{
 .b{
   font-weight:100;
   opacity: .1;
+}
+.c{
+  color: #16a596;
+  padding: 0;
+  margin: 0;
 }
