@@ -1,0 +1,28 @@
+body{
+  background-color:#9ddfd3;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 8%;
+  border-color:#dbf6e9;
+  border-width: 10px;
+}
+h1{
+  color: #16a596;
+  padding: 0;
+  margin: 0;
+}
+td{
+  font-size: 12;
+}
+.a{
+  border-style:inset;
+  width:4%;
+  border-color: #16a596;
+  border-width: thin;
+}
+.b{
+  font-weight:100;
+  opacity: .1;
+}
