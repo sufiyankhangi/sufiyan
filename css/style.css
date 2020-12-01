@@ -4,7 +4,7 @@ body{
 hr{
   border-style: none;
   border-top-style: dotted;
-  width: 12%;
+  width: 20%;
   border-color:#dbf6e9;
   border-width: 10px;
 }
@@ -24,7 +24,7 @@ td{
 }
 .b{
   font-weight:100;
-  opacity: .1;
+  opacity: .05;
 }
 .c{
   color: #16a596;
